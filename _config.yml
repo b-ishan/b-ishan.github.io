@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ishan's Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ishan"
 description              : &description "personal description"
 url                      : https://b-ishan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"  
   bio              : "Graduate student pursuing a Master's in Electrical and Computer Engineering with a specialization in Computer Engineering"
   location         : "San Diego, California"
-  employer         : "Jacobs School of Engineering"
+  employer         : "Jacobs School of Engineering, UC San Diego"
   uri              : # URL
   email            : "isbansal@ucsd.edu" 
 
