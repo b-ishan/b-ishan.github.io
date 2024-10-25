@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal page for Ishan Bansal"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,14 +24,14 @@ Passionate software engineer with expertise in software design, development, and
 ## Education
 
 **University of California San Diego**
-Master of Science in Electrical and Computer Engineering
-Specialization in Computer Engineering | Expected Graduation: Spring 2025
-*2023 - Present*
+- MS in Electrical and Computer Engineering
+- Specialization: Computer Engineering
+- *September 2023 - Present*
 
 **Birla Institute of Technology and Science, Pilani**
-Bachelore of Engineering in Electronics and Communication Engineering
-Minor in Finance
-*2016 - 2020*
+- BE in Electronics and Communication Engineering
+- Minor in Finance
+- *August 2016 - May 2020*
 
 ## Professional Experience
 
