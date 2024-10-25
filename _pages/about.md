@@ -26,12 +26,12 @@ Passionate software engineer with expertise in software design, development, and
 **University of California San Diego**
 - MS in Electrical and Computer Engineering
 - Specialization: Computer Engineering
-- *September 2023 - Present*
+- *September 2023 - April 2025 (Expected)*
 
 **Birla Institute of Technology and Science, Pilani**
 - BE in Electronics and Communication Engineering
 - Minor in Finance
-- *August 2016 - May 2020*
+- *August 2016 - June 2020*
 
 ## Professional Experience
 
@@ -61,6 +61,14 @@ Passionate software engineer with expertise in software design, development, and
 - Developed code-coverage tool for flash storage firmware
 - Designed efficient data structures within 50kB constraints
 - Saved US $50,000 annually through in-house solution
+
+### Indian Meterological Department | Research Intern | Pune
+*May 2018 - July 2018*
+- Led 4-person team developing end-to-end meteorological sensor data collection system
+- Built robust system for harsh environments with zero supervision requirements
+- Integrated mobile app for real-time data access with 100% uptime
+- Implemented multi-channel data transmission (LTE, Ethernet, Wi-Fi) using microcontrollers
+- Achieved 90% cost reduction through in-house development
 
 ## Research
 
