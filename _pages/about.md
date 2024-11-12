@@ -76,8 +76,8 @@ Passionate software engineer with expertise in software design, development, and
 *April 2024 - Present*
 - Developed high-performance RFID sensing system
 - Achieved 95% accuracy in real-time sensing
-- Publication accepted at ACM Embedded Networked Sensor Systems (SenSys) 2024, to be held at Hangzhou, China
-- Demonstration Publication accepted at ACM Mobile Computing and Networking (MobiCom) 2024, to be held at Washington D.C., USA
+- Published work at [ACM Embedded Networked Sensor Systems (SenSys) 2024] (https://dl.acm.org/doi/10.1145/3666025.3699342), held at Hangzhou, China
+- Published demonstration manuscript at [ACM Mobile Computing and Networking (MobiCom) 2024] (https://doi.org/10.1145/3636534.3698850), to be held at Washington D.C., USA
 
 ### Dual-Band MIMO Circular Patch Antenna
 *January 2019 - April 2019*
