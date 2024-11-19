@@ -17,9 +17,10 @@ Passionate software engineer with expertise in software design, development, and
 - Others: JavaScript, Perl, HTML/CSS
 
 **Technologies**
-- Cloud & DevOps: AWS, Docker, Kubernetes, Jenkins, Hybrid Cloud
-- Infrastructure: Ansible, Terraform, Git, Jira, Linux
 - Databases: SQL, MongoDB
+- Infrastructure: Ansible, Terraform, Git, Jira, Linux
+- Frameworks: TensorFlow, PyTorch, Django, Flask, SpringBoot
+- Developer Tools: Docker, Kubernetes, Jenkins, Elasticsearch, Grafana, Kibana, Logstash, Postman, Splunk
 
 ## Education
 
@@ -36,31 +37,32 @@ Passionate software engineer with expertise in software design, development, and
 ## Professional Experience
 
 ### Cisco Systems | Sr. Software Developer | Bangalore
-*September 2020 - July 2023*
-- Led HyperFlex cloud infrastructure development for upgrade and install software
-- Reduced upgrade time by 22%
-- Achieved 93% bug closure rate with <3% return rate
-- Awarded "Employee of the Quarter" for Q1 in FY2021
+*January 2020 - July 2023*
+- Developed software for install and upgrade for HyperFlex, a cloud infrastructure management service, achieving a reduction of 22% in upgrade time.
+- Accelerated feature integration, completing 97% of projects within the proposed ETA, and improving time-to-market by 25%.
+- High performer with a 93% bug closure rate resulting in a reduction of 70% in incoming bugs in upgrade software.
+- Engineered automation tools to manage test scripts and test statistics for Intersight, a cloud-operated infrastructure management platform.
+- Developed a CI/CD pipeline-integrated tool for test script review, saving 100 work hours per week previously spent on code review.
+- Designed and launched a web application to track verification activities for hundreds of deployed microservices.
+- Implemented an automated solution to identify security vulnerabilities and user-experience flaws, saving 50 work hours per week.
+- Created a chatbot for real-time reporting of ongoing and past verification activities, reducing data retrieval time by 40 work hours per week.
+- Honored with the "Employee of the Quarter" award in Q1-FY2021 for exceptional contributions to new feature development.
 
 ## Internships
 
 ### Peco Pallet Inc | Summer Intern | New York
 *June 2024 - September 2024*
-- Developed data preprocessing pipeline reducing manual work by 70%
-- Enhanced pricing process efficiency by 40%
-- Increased conversion probability by 25%
-
-### Cisco Systems | Engineering Intern | Bangalore
-*January 2020 - June 2020*
-- Built CI/CD pipeline integration tool saving 100 work hours weekly
-- Developed web application for microservices verification tracking
-- Created Webex chatbot reducing data retrieval time by 10 hours/week
+- Implemented custom pipeline for data cleaning, geocoding, and reporting using Python and Excel for managing large corporate data.
+- Engineered a one-click solution for analyzing extensive datasets and generating customized reports to estimate optimal pricing strategies.
+- Built the entire application in-house, improving data quality and saving over 70% of the work hours spent in data management.
+- Enhanced the pricing process and expedited the delivery of pricing by 40%, increasing the probability of conversion by 25%.
 
 ### Western Digital | Summer Intern | Bangalore
 *May 2019 - July 2019*
-- Developed code-coverage tool for flash storage firmware
-- Designed efficient data structures within 50kB constraints
-- Saved US $50,000 annually through in-house solution
+- Developed a code-coverage tool for functional coverage for firmware verification of removable flash-based storage devices.
+- Designed an efficient data structure and algorithm to compute and store coverage results within a 50kB on-disk space constraint.
+- Integrated the tool with a user-friendly interface to display results and suggest actions for test coverage improvement.
+- Built the tool in-house, saving an estimated US $50,000 annually.
 
 ### Indian Meterological Department | Research Intern | Pune
 *May 2018 - July 2018*
@@ -72,22 +74,28 @@ Passionate software engineer with expertise in software design, development, and
 
 ## Research
 
-### Batteryless and Wireless Sensing Platform
+### Batteryless and Wireless Sensing Platform (Patent Pending)
 *April 2024 - Present*
-- Developed high-performance RFID sensing system
-- Achieved 95% accuracy in real-time sensing
-- Published work at [ACM Embedded Networked Sensor Systems (SenSys) 2024](https://dl.acm.org/doi/10.1145/3666025.3699342), held at Hangzhou, China
-- Published demonstration manuscript at [ACM Mobile Computing and Networking (MobiCom) 2024](https://doi.org/10.1145/3636534.3698850), to be held at Washington D.C., USA
+- Conducting research on wireless and batteryless sensing at the [Wireless Communications, Sensing and Networks Group](https://wcsng.ucsd.edu) under the guidance of Dr. Dinesh Bharadia.
+- Developed the software for interfacing an RFID reader and capturing the hopping radio frequency signal information in real-time.
+- Developed the algorithm for resolving signal parameters with minimal latency for computing natural stimuli.
+- Achieved real-time sensing of stimuli like force, soil moisture, and luminosity with over 95% accuracy using cost-effective commercial sensors and RFIDs.
+- Improved throughput by 1000%, reducing the sensory resolution time by 95%, enabling multi-sensor platforms and sub-second sensing.
+- Exploring deep learning algorithms like recurrent neural networks to enable applications such as GAIT analysis.
+- Published work at [ACM Embedded Networked Sensor Systems (SenSys) 2024](https://dl.acm.org/doi/10.1145/3666025.3699342), held at Hangzhou, China.
+- Published [demonstration manuscript](https://wcsng.ucsd.edu/zensetag_demo) at [ACM Mobile Computing and Networking (MobiCom) 2024](https://doi.org/10.1145/3636534.3698850), held at Washington D.C., USA.
+- Find out more about this project on the [website](https://wcsng.ucsd.edu/zensetag).
 
 ### Dual-Band MIMO Circular Patch Antenna
 *January 2019 - April 2019*
-- Designed 5G-capable antenna topographies
-- Achieved 70% reduction in S-Parameters
+- Designed and simulated dual-band MIMO circular patch antennas for 5G networking.
+- Achieved a 70% reduction in S-Parameters, improving throughput and efficiency.
+- Compared standard circular patch antennas with modified designs using isolation elements.
 
 ### Approximate Adders in Arithmetic Operations
 *September 2018 - November 2018*
-- Reduced power/area consumption by 28%
-- Increased speed by 37%
+- Evaluated approximate adders for 2nd and 3rd order operations like regular and matrix multiplication.
+- Achieved 28% reduction in power and area consumption, with a 37% increase in speed.
 
 ## Certifications
 - AWS Fundamentals Specialization (Coursera)
