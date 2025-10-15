@@ -25,6 +25,11 @@ I am a passionate software engineer with a strong foundation in software design,
 ## Education
 
 **University of California San Diego**
+- PhD in Electrical and Computer Engineering
+- Specialization: Computer Engineering
+- *July 2025 - Present*
+
+**University of California San Diego**
 - MS in Electrical and Computer Engineering
 - Specialization: Computer Engineering
 - *September 2023 - June 2025*
@@ -44,8 +49,9 @@ I am a passionate software engineer with a strong foundation in software design,
 - Won the **Best Paper Award** at IEEE RFID 2025 for SenSync, the algorithm behind the platform.
 - Awarded **Best Demo - Runner Up** at MobiCom ’24 and SenSys ’25.
 - Demonstrated commitment to reproducible research, earning all evaluation badges for publishing artifacts for ZenseTag at SenSys ’24.
-- Published at multiple flagship conferences including ACM SenSys ’24, ACM MobiCom ’24, IEEE RFID ’25, and ACM SenSys ’25.
+- Published at multiple flagship conferences including ACM SenSys ’24, ACM MobiCom ’24, IEEE RFID ’25, ACM SenSys ’25 and the IEEE Journal of RFID.
 - **Publications:**
+    - I. Bansal, N. Bhat, H. Govindarajan, A. Gupta and D. Bharadia, "TuneTag: Impedance-Matched RFID Tag for Long-Range and Reliable Battery-Free Sensing", in *IEEE Journal of Radio Frequency Identification*.
     - I. Bansal, N. Bhat, A. Gupta, H. Govindarajan and D. Bharadia, ”SenSync: Real-Time and Accurate Passive Sensing,” *2025 IEEE International Conference on RFID (IEEE RFID ’25)*, Atlanta, GA, USA, 2025, pp. 1-6.
     - ZenseTag: An RFID assisted Twin-Tag Single Antenna COTS Sensor Interface. In *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys ’24)*. Association for Computing Machinery, New York, NY, USA, 336–350.
     - Demo - ZenseTag: Real-Time Passive RFID Sensing. In *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom ’24)*. Association for Computing Machinery, New York, NY, USA, 1757–1759.
@@ -145,4 +151,5 @@ I am a passionate software engineer with a strong foundation in software design,
 **Event Organizer | BITS Hyderabad**
 *August 2016 - May 2019*
 - Organized and hosted approximately 50 guest lectures for students and faculty.
+
 - Impacted 10,000+ students across India.
