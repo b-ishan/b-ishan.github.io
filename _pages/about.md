@@ -45,6 +45,8 @@ Before my PhD, I spent three and a half years at **Cisco Systems** as a software
 - Earned all **5 ACM artifact evaluation badges** (available, functional, reusable, reproduced, replicated) for ZenseTag at SenSys '24.
 
 ## Publications
+PDFs, slides, and posters for each paper are on the [Publications](/publications/) page.
+
 - **I. Bansal**, N. Bhat, H. Govindarajan, A. Gupta, and D. Bharadia, "[TuneTag: Impedance-Matched RFID Tag for Long-Range and Reliable Battery-Free Sensing](https://doi.org/10.1109/JRFID.2025.3614590)," *IEEE Journal of Radio Frequency Identification*, vol. 9, 2025.
 - **I. Bansal**, N. Bhat, A. Gupta, H. Govindarajan, and D. Bharadia, "[SenSync: Real-Time and Accurate Passive Sensing](https://doi.org/10.1109/RFID64926.2025.11015540)," *2025 IEEE International Conference on RFID (IEEE RFID '25)*, Atlanta, GA, USA, pp. 1–6. **Best Paper Award.**
 - N. Bhat, A. Gupta, **I. Bansal**, H. Govindarajan, and D. Bharadia, "[ZenseTag: An RFID assisted Twin-Tag Single Antenna COTS Sensor Interface](https://doi.org/10.1145/3666025.3699342)," *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys '24)*, pp. 336–350.
