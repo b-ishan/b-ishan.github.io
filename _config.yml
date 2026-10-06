@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ishan's Personal Page"
+title                    : "Ishan Bansal"
 title_separator          : "-"
-name                     : &name "Ishan"
-description              : &description "personal description"
+name                     : &name "Ishan Bansal"
+description              : &description "Ishan Bansal, PhD student in Electrical and Computer Engineering at UC San Diego, working on wireless, battery-free sensing systems."
 url                      : https://b-ishan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "b-ishan/b-ishan.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Ishan Bansal"
   pronouns         : "he/him"  
-  bio              : "Graduate student pursuing a PhD in Electrical Engineering with a specialization in Computer Engineering - working in the Wireless Sensing and Systems domain"
+  bio              : "PhD student in Electrical and Computer Engineering at UC San Diego, building wireless, battery-free sensing systems. Previously a software developer at Cisco."
   location         : "San Diego, California"
-  employer         : "Jacobs School of Engineering"
+  employer         : "UC San Diego"
   uri              : # URL
   email            : "isbansal@ucsd.edu" 
 
@@ -298,6 +298,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
@@ -306,6 +307,7 @@ plugins:
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
