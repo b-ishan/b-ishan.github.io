@@ -79,7 +79,7 @@ Before my PhD, I spent three and a half years at **Cisco Systems** as a software
 
 ## Internships
 
-### Software Intern | Peco Pallet Inc | New York, NY
+### Summer Intern | Peco Pallet Inc | New York, NY
 *June 2024 – September 2024*
 - Built a Python and Excel pipeline for data cleaning, geocoding, and reporting on large corporate datasets.
 - Engineered a one-click tool that analyzes large datasets and generates custom reports to estimate optimal pricing strategies.
